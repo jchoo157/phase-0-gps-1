@@ -4,6 +4,6 @@
 
 **This is something bold**
 
-*Here's something with emphasis*
+*Here's with emphasis*
 
 [Link Title](www.google.com)

@@ -1,6 +1,6 @@
 *What Git concepts were you struggling with prior to the GPS session?
 
-	Git concepts I was struggling with prior to the GPS session was forking, fetching, and merging a repository.  After going through it more, it helped clear things up.  I still need more practice but it was very helpful.
+Git concepts I was struggling with prior to the GPS session was forking, fetching, and merging a repository.  After going through it more, it helped clear things up.  I still need more practice but it was very helpful.
 
 **What concepts were clarified during the GPS?**
 
